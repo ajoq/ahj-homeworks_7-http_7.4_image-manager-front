@@ -4,7 +4,7 @@
 
 GH pages: https://ajoq.github.io/ahj-homeworks_7-http_7.4_image-manager-front/
 
-Backend git: https://github.com/ajoq/ahj-homeworks_7-http_7.2_front
+Backend git: https://github.com/ajoq/ajoq-ahj-homeworks_7-http_7.3_image-manager-back
 
 ### Image Manager
 
